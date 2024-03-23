@@ -54,7 +54,7 @@ StrvParse('null') // null
 StrvParse('undefined') // undefined
 StrvParse('zero') // 'zero'
 StrvParse('1','string') // '1'
-trvParse(1,'string') // '1'
+StrvParse(1,'string') // '1'
 ```
 
 ## 产品闭环
