@@ -4,12 +4,12 @@ a library package to parse simple string value to js value
 
 file | size | gzip | brotli
 :---- | :---- | :---- | :----
-dist/main.cjs | 2.34kb | 0.96kb | 0.84kb
-dist/main.js | 2.26kb | 0.90kb | 0.79kb
-dist/main.min.cjs | 1.48kb | 0.76kb | 0.65kb
-dist/main.min.js | 1.41kb | 0.71kb | 0.64kb
-dist/main.umd.cjs | 2.81kb | 1.10kb | 0.95kb
-dist/main.umd.min.cjs | 1.49kb | 0.78kb | 0.68kb
+dist/main.cjs | 1.03kb | 0.48kb | 0.39kb
+dist/main.js | 0.94kb | 0.42kb | 0.33kb
+dist/main.min.cjs | 0.75kb | 0.44kb | 0.35kb
+dist/main.min.js | 0.67kb | 0.39kb | 0.32kb
+dist/main.umd.cjs | 1.41kb | 0.60kb | 0.50kb
+dist/main.umd.min.cjs | 0.89kb | 0.51kb | 0.42kb
 
 ~~note: files with 'min' label do not upload.~~
 
