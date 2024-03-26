@@ -11,7 +11,7 @@ dist/main.min.js | 0.67kb | 0.39kb | 0.32kb
 dist/main.umd.cjs | 1.41kb | 0.60kb | 0.52kb
 dist/main.umd.min.cjs | 0.89kb | 0.51kb | 0.42kb
 
-备注： 带有 min 标志的文件未上传
+~~备注： 带有 min 标志的文件未上传~~
 
 ## 项目背景
 

@@ -11,7 +11,7 @@ dist/main.min.js | 1.41kb | 0.71kb | 0.64kb
 dist/main.umd.cjs | 2.81kb | 1.10kb | 0.95kb
 dist/main.umd.min.cjs | 1.49kb | 0.78kb | 0.68kb
 
-note: files with 'mini' label do not upload.
+~~note: files with 'min' label do not upload.~~
 
 ## Background
 

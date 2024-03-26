@@ -1,6 +1,6 @@
 {
   "name": "nano-strv-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a library package to parse simple string value to js value",
   "keywords": [
     "nano-strv",
